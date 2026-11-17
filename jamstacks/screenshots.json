@@ -1,0 +1,22 @@
+{
+  "templateId": "next-burger-diner",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "fffa782ca24dcae37297fc178318a03d50cc75d2cf158018ab36c16ee349ead8",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 216093
+    },
+    {
+      "mode": "dark",
+      "sha256": "028f33ad4ddf57c7a6c454a9007d662fd16a5aab1509aa853f46ce4fec3462d7",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 216185
+    }
+  ]
+}

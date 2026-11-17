@@ -1,0 +1,19 @@
+{
+  "name": "Burger diner",
+  "description": "A retro 1950s diner theme with chrome, cherry red and a neon sign that lights up when you're open: a jukebox-style menu of burgers, breakfast, shakes and pie with combo badges, a daily blue plate special, late-night hours, location and a Jamstacks contact component for parties, group visits and catering.",
+  "tech": "next",
+  "type": "burger",
+  "style": "diner",
+  "internal": false,
+  "components": [
+    "support-form"
+  ],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": {
+      "strategy": "media"
+    }
+  }
+}
