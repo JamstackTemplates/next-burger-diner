@@ -80,8 +80,8 @@ export interface Diner {
 }
 
 export const diner: Diner = {
-  name: 'Acme Diner',
-  sign: { script: 'Acme', block: 'Diner' },
+  name: 'Starlite Diner',
+  sign: { script: 'Starlite', block: 'Diner' },
   tagline: 'Burgers · breakfast all day · shakes & pie',
   introduction:
     'A family-run diner on Old Town Plaza since 1956. Pancakes from 7 in the morning, hand-pressed burgers off the flat-top, and the grill stays hot till 2am on Friday and Saturday nights.',

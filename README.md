@@ -1,4 +1,4 @@
-# Acme Diner (Next.js)
+# Starlite Diner (Next.js)
 
 A retro 1950s diner theme with chrome, cherry red and a neon sign that lights up when you're open: a jukebox-style menu of burgers, breakfast, shakes and pie with combo badges, a daily blue plate special, late-night hours, location and a [Jamstacks](https://jamstacks.net) contact component for parties, group visits and catering.
 
@@ -6,7 +6,7 @@ The page is the diner seen from a counter stool: a neon sign on the tiled back w
 
 It exports to plain static files, deploys to GitHub Pages (custom domain or `/repository/` path) and works with no backend.
 
-**Acme Diner**, its story, menu, blue plates and contact details are fictitious placeholders. The sample address is a public landmark, Old Town Plaza in Albuquerque, so the map has something real to show. Replace all of them with your own.
+**Starlite Diner**, its story, menu, blue plates and contact details are fictitious placeholders. The sample address is a public landmark, Old Town Plaza in Albuquerque, so the map has something real to show. Replace all of them with your own.
 
 ## Pages
 
@@ -146,7 +146,7 @@ The footer ends with "with ❤️ [jamstacks.net](https://jamstacks.net)". It's 
 
 ```json
 {
-  "name": "Acme Diner",
+  "name": "Starlite Diner",
   "description": "A family-run 1950s diner on Old Town Plaza: breakfast all day, hand-pressed burgers, shakes, pie and late nights on weekends.",
   "domain": "next-burger-diner.jamstacks.net",
   "timeZone": "America/Denver",
@@ -258,7 +258,7 @@ jamstacks/              optional template publishing metadata and gallery captur
 
 ## Before publishing your website
 
-- Replace Acme Diner, the sign wording, story, address (and its `note`), directions, email, phone, menu, prices, blue plates, shakes, FAQs and social links with your own details.
+- Replace Starlite Diner, the sign wording, story, address (and its `note`), directions, email, phone, menu, prices, blue plates, shakes, FAQs and social links with your own details.
 - Set your real opening hours (late nights as `closes: '02:00'`) and `timeZone` in `site.config.json`, and check the neon sign and status line on the home page.
 - Replace the demo `domain` in `site.config.json` with your own (or set the correct Pages URL), and update the site title/description, icon and social preview image.
 - Run `npm run check` and a project-path build when using a repository URL.
